@@ -75,8 +75,6 @@ def create_app():
     api.add_resource(StudentExportApplicationsAPI, '/api/student/export_csv')
     api.add_resource(StudentProfileAPI, '/api/student/profile')
 
-    from backend.worker import init_celery
-    init_celery(app)
 
     return app
 
