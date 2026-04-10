@@ -82,7 +82,7 @@ export default {
                 if (!response.ok) {
                     alert(data.message)
                 } else {
-                    alert('Export task started! You will receive the CSV file shortly.')
+                    alert('Application History Sent Successfully!! Check your mail.')
                 }
             }
             catch(error) {
