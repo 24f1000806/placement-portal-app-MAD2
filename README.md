@@ -4,6 +4,8 @@ Institutes require efficient systems to manage campus recruitment activities inv
 
 This project develops a **multi-user Placement Portal Web Application (PPA)** that facilitates seamless interaction between **Admin (Institute)**, **Companies**, and **Students**, providing a centralized system to manage the entire recruitment lifecycle.
 
+<img src="assets/login-page-banner.png" alt="Login Page" width="1000">
+
 ---
 
 ## ✨ Features
